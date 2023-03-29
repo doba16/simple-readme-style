@@ -35,7 +35,7 @@ This package is provided in GitHub's NPM Registry. To get started, create a file
 @doba16:registry=https://npm.pkg.github.com
 ```
 
-Other methods to use a package from GitHub's NPM Registry can be found at [GitHUb's Documentation](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry).
+Other methods to use a package from GitHub's NPM Registry can be found at [GitHub's Documentation](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry).
 
 After that, install the npm package using yarn or npm.
 
