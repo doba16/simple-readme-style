@@ -1,0 +1,24 @@
+{
+  "name": "@doba16/simple-readme-style",
+  "version": "1.0.0",
+  "description": "Simple HTML ReadMe-like style for use in other projects.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doba16/simple-readme-style.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Style",
+    "ReadMe"
+  ],
+  "author": "Doba16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doba16/simple-readme-style/issues"
+  },
+  "homepage": "https://github.com/doba16/simple-readme-style#readme"
+}

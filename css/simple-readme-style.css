@@ -1,0 +1,42 @@
+:root {
+	--background-color: #FFF;
+	--text-color: #333;
+	--border-color: #AAA;
+	--link-color: #66F;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background-color: #252525;
+		--text-color: #DDD;
+		--border-color: #777;
+		--link-color: #66F;
+	}
+}
+
+html, body {
+	font-family: sans-serif;
+	background-color: var(--background-color);
+}
+
+.page-content {
+	max-width: 1024px;
+	margin: auto;
+	
+	color: var(--text-color);
+}
+
+h1, h2 {
+	border-bottom: 2px solid var(--border-color);
+	padding-bottom: 4px;
+}
+
+a {
+	color: var(--link-color);
+	text-decoration: none;
+}
+
+header {
+	text-align: right;
+	margin: 20px 0;
+}
